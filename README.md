@@ -2,6 +2,8 @@
 
 >Status do projeto: Em desenvolvimento
 
+Para rodar este projeto, basta utilizar o seguinte comando:
+
 ```
 node app.js
 ```
